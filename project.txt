@@ -1,0 +1,11 @@
+https://betterprogramming.pub/returning-csv-content-from-an-api-in-node-js-3dafe19208e5 //return csv--node.js
+
+https://www.mindk.com/blog/how-to-build-an-api/  //building api
+
+https://blog.stoplight.io/how-to-create-an-api-in-three-steps             //building api
+
+
+
+https://www.tutorialspoint.com/nodejs/nodejs_restful_api.htm
+
+https://hevodata.com/learn/building-a-secure-node-js-rest-api/
